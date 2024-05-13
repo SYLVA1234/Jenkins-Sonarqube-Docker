@@ -1,0 +1,1 @@
+I am demonstarting how a job can be triggered automatically
